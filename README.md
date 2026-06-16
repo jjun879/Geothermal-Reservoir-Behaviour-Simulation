@@ -14,7 +14,6 @@ The project includes:
 * Pressure and temperature behaviour analysis
 * Extraction and recharge comparison
 * Sensitivity analysis on extraction rate
-* Static and interactive data visualisation
 
 ## Model Description
 
