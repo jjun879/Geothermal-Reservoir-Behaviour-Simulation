@@ -59,7 +59,7 @@ data/
 figures/
 ```
 
-## Technologies Used
+## Packages Used
 
 * Python
 * NumPy
