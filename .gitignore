@@ -1,0 +1,9 @@
+GR_venv/
+__pycache__/
+*.pyc
+
+data/
+figures/
+
+.idea/
+.vscode/
